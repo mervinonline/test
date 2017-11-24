@@ -1,4 +1,4 @@
-<?php echo shell_exec('git pull origin master');
+<?php echo shell_exec('/usr/bin/git pull origin master');
 
 //define('PRIVATE_KEY', 'XXXXXXXXXXXXXXXXxxx');
 
