@@ -1,4 +1,4 @@
-<?php echo 'git pull';
+<?php echo 'git pull origin master';
 
 //define('PRIVATE_KEY', 'XXXXXXXXXXXXXXXXxxx');
 
